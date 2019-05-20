@@ -1,0 +1,10 @@
+F W F F F F F
+F W F F F F F
+F W F G F F F
+F W F F F F F
+F W F G F F F
+F W F W F F F
+F W F F F F F
+K W D W F F F
+F W F D F F F
+F D F W F F E
